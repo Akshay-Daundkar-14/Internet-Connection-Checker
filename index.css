@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to left, rgb(255, 81, 0) , blue);
+}
+
+.container{
+    margin: 200px auto;
+    width: 700px;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.container h1{
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.container p{
+    margin: 8px;
+}
